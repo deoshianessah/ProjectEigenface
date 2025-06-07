@@ -7,11 +7,7 @@
 
 ## Fitur
 
-- **Pemrosesan Dataset Otomatis**
-  Deteksi folder dataset berisi gambar wajah terstruktur.
-- **PCA Manual**
-  Implementasi dari awal untuk komputasi eigenvalue dan eigenvector (tanpa sklearn).
-- **Pengenalan Wajah**
-  Menampilkan hasil prediksi terhadap wajah uji dan wajah dataset yang paling mirip.
-- **Visualisasi Eigenfaces**
-  Tampilkan komponen utama (Eigenfaces) hasil dari PCA.
+- **Pemrosesan Dataset Otomatis** : Deteksi folder dataset berisi gambar wajah terstruktur.
+- **PCA Manual** : Implementasi dari awal untuk komputasi eigenvalue dan eigenvector (tanpa sklearn).
+- **Pengenalan Wajah** : Menampilkan hasil prediksi terhadap wajah uji dan wajah dataset yang paling mirip.
+- **Visualisasi Eigenfaces** : Tampilkan komponen utama (Eigenfaces) hasil dari PCA.
