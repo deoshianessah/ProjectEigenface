@@ -1,4 +1,4 @@
-# ProjectEigenface
+# Project Eigenface
 
 ## Anggota Kelompok 
 1. Besty Mega Fauziah (L0124007)
