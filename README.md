@@ -6,7 +6,7 @@ Project Based Learning 1 : Aplikasi Nilai Eigen dan Eigen Face pada Pengenalan W
 2. Deoshi Anessah Zheren Areja (L0124009)
 3. Dina Hamala Nur Rosyidah (L0124010)
 
-## General Information
+## Deskripsi Program
 Pengenalan wajah (Face Recognition) adalah teknologi biometrik yang bisa dipakai untuk mengidentifikasi wajah seseorang untuk berbagai kepentingan khususnya keamanan. Program pengenalan wajah melibatkan kumpulan citra wajah yang sudah disimpan pada database lalu berdasarkan kumpulan citra wajah tersebut, program dapat mempelajari bentuk wajah lalu mencocokkan antara kumpulan citra wajah yang sudah dipelajari dengan citra yang akan diidentifikasi.
 
 ## Fitur
@@ -15,4 +15,18 @@ Pengenalan wajah (Face Recognition) adalah teknologi biometrik yang bisa dipakai
 - **Pengenalan Wajah** : Menampilkan hasil prediksi terhadap wajah uji dan wajah dataset yang paling mirip.
 - **Visualisasi Eigenfaces** : Tampilkan komponen utama (Eigenfaces) hasil dari PCA.
 
-## Cara Menggunakan
+## Teknologi yang Digunakan
+- Python
+- NumPy
+- OpenCV
+- Streamlit
+- Pillow (PIL)
+  
+## Cara Penggunaan
+1. Buka folder app.py kemudian klik open in terminal 
+2. Lalu berikan command prompt streamlit run app.py / python -m streamlit run app.py
+3. Tunggu beberapa detik hingga antarmuka aplikasi muncul di browser
+4. Pilih folder dataset yang ingin digunakan
+5. Pilih gambar uji (test image)
+6. Aplikasi akan secara otomatis melakukan proses pengenalan wajah
+7. Tunggu hingga hasil prediksi dan visualisasi wajah muncul di halaman utama
